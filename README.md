@@ -165,3 +165,4 @@ src/zavtra/
 - [RTM](Documents_Zavtra/2.4_RTM_Zavtra.pdf)
 - [Целевая архитектура](Documents_Zavtra/3.1_Architecture_Zavtra.md)
 - [Подготовка к КТ-1](Documents_Zavtra/KT1_Zavtra.md)
+- Слайд КТ-1: [PowerPoint](Documents_Zavtra/KT1_Zavtra.pptx), [PDF](Documents_Zavtra/KT1_Zavtra.pdf)
