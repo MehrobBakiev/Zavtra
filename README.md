@@ -158,11 +158,13 @@ src/zavtra/
 
 ## Документы
 
-- [Одностраничник](Documents_Zavtra/one_pager_zavtra_2.pdf)
-- [PRD](Documents_Zavtra/2.1_PRD_Zavtra.pdf)
-- [SRS](Documents_Zavtra/2.2_SRS_Zavtra.pdf)
-- [User Stories](Documents_Zavtra/2.3_UserStories_Zavtra.pdf)
-- [RTM](Documents_Zavtra/2.4_RTM_Zavtra.pdf)
+- [Одностраничник](https://disk.360.yandex.ru/i/hVz4FTMQxOh_oQ)
+- [PRD](https://disk.360.yandex.ru/d/DpdsYaFfND6Z_A)
+- [SRS](https://disk.360.yandex.ru/d/i2dlwnsLbHCLFw)
+- [User Stories](https://disk.360.yandex.ru/d/3l_rn-rzjZAaeQ)
+- [RTM](https://disk.360.yandex.ru/d/VRZX0IztI4xQhA)
 - [Целевая архитектура](Documents_Zavtra/3.1_Architecture_Zavtra.md)
 - [Подготовка к КТ-1](Documents_Zavtra/KT1_Zavtra.md)
 - Слайд КТ-1: [PowerPoint](Documents_Zavtra/KT1_Zavtra.pptx), [PDF](Documents_Zavtra/KT1_Zavtra.pdf)
+
+Копии исходных PDF также сохранены в [Documents_Zavtra](Documents_Zavtra).

@@ -56,11 +56,11 @@ def main():
 
     base = "https://github.com/MehrobBakiev/Zavtra"
     documents = [
-        ("Одностраничник", base + "/blob/main/Documents_Zavtra/one_pager_zavtra_2.pdf"),
-        ("PRD", base + "/blob/main/Documents_Zavtra/2.1_PRD_Zavtra.pdf"),
-        ("SRS", base + "/blob/main/Documents_Zavtra/2.2_SRS_Zavtra.pdf"),
-        ("User Stories", base + "/blob/main/Documents_Zavtra/2.3_UserStories_Zavtra.pdf"),
-        ("RTM", base + "/blob/main/Documents_Zavtra/2.4_RTM_Zavtra.pdf"),
+        ("Одностраничник", "https://disk.360.yandex.ru/i/hVz4FTMQxOh_oQ"),
+        ("PRD", "https://disk.360.yandex.ru/d/DpdsYaFfND6Z_A"),
+        ("SRS", "https://disk.360.yandex.ru/d/i2dlwnsLbHCLFw"),
+        ("User Stories", "https://disk.360.yandex.ru/d/3l_rn-rzjZAaeQ"),
+        ("RTM", "https://disk.360.yandex.ru/d/VRZX0IztI4xQhA"),
         ("Git-репозиторий", base),
     ]
     for index, (label, url) in enumerate(documents):

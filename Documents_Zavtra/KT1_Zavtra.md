@@ -2,6 +2,8 @@
 
 Дата подготовки: 17.10.2026. Статус: текст для переноса в шаблон. Автор: Бакиев Мехроб Мехрзодович. Репозиторий: [MehrobBakiev/Zavtra](https://github.com/MehrobBakiev/Zavtra).
 
+Ссылки на документы обновлены 22.10.2026: используются предоставленные автором ссылки на Яндекс Диск.
+
 Готовый слайд: [редактируемый PowerPoint](KT1_Zavtra.pptx), [PDF](KT1_Zavtra.pdf). Он подготовлен по присланному шаблону; в общую презентацию ещё не перенесён.
 
 Основание: присланные пользователем скриншоты слайдов 1–5 презентации [«Контрольная точка 1»](https://docs.google.com/presentation/d/1aItQgnEGg1iqHDm8NIec75SzxPWPfG1QaMoFRDyRU64/edit). Ссылка через веб-инструмент не открылась; требования прочитаны со скриншотов.
@@ -27,11 +29,11 @@
 | --- | --- | --- |
 | Название | «Завтра» | Перенести в заголовок копии шаблона |
 | Авторы | Бакиев Мехроб Мехрзодович | Перенести в слайд |
-| Одностраничник | [one_pager_zavtra_2.pdf](one_pager_zavtra_2.pdf) | Добавить ссылку, доступную преподавателю |
-| PRD | [2.1_PRD_Zavtra.pdf](2.1_PRD_Zavtra.pdf) | Добавить ссылку, доступную преподавателю |
-| SRS | [2.2_SRS_Zavtra.pdf](2.2_SRS_Zavtra.pdf) | Добавить ссылку, доступную преподавателю |
-| User Stories | [2.3_UserStories_Zavtra.pdf](2.3_UserStories_Zavtra.pdf) | Добавить ссылку, доступную преподавателю |
-| RTM | [2.4_RTM_Zavtra.pdf](2.4_RTM_Zavtra.pdf) | Добавить ссылку, доступную преподавателю |
+| Одностраничник | [Яндекс Диск](https://disk.360.yandex.ru/i/hVz4FTMQxOh_oQ) | Ссылка добавлена в слайд |
+| PRD | [Яндекс Диск](https://disk.360.yandex.ru/d/DpdsYaFfND6Z_A) | Ссылка добавлена в слайд |
+| SRS | [Яндекс Диск](https://disk.360.yandex.ru/d/i2dlwnsLbHCLFw) | Ссылка добавлена в слайд |
+| User Stories | [Яндекс Диск](https://disk.360.yandex.ru/d/3l_rn-rzjZAaeQ) | Ссылка добавлена в слайд |
+| RTM | [Яндекс Диск](https://disk.360.yandex.ru/d/VRZX0IztI4xQhA) | Ссылка добавлена в слайд |
 | Git-репозиторий | [MehrobBakiev/Zavtra](https://github.com/MehrobBakiev/Zavtra) | Перенести ссылку в слайд |
 | Выполненные задачи | Подготовлен текст ниже | Перенести в слайд |
 | Дата заполнения | 17.10.2026 для этого черновика | При окончательном заполнении указать фактическую дату |
@@ -50,11 +52,11 @@
 
 Описание проекта:
 
-- [Одностраничник](https://github.com/MehrobBakiev/Zavtra/blob/main/Documents_Zavtra/one_pager_zavtra_2.pdf).
-- [PRD](https://github.com/MehrobBakiev/Zavtra/blob/main/Documents_Zavtra/2.1_PRD_Zavtra.pdf).
-- [SRS](https://github.com/MehrobBakiev/Zavtra/blob/main/Documents_Zavtra/2.2_SRS_Zavtra.pdf).
-- [User Stories](https://github.com/MehrobBakiev/Zavtra/blob/main/Documents_Zavtra/2.3_UserStories_Zavtra.pdf).
-- [RTM](https://github.com/MehrobBakiev/Zavtra/blob/main/Documents_Zavtra/2.4_RTM_Zavtra.pdf).
+- [Одностраничник](https://disk.360.yandex.ru/i/hVz4FTMQxOh_oQ).
+- [PRD](https://disk.360.yandex.ru/d/DpdsYaFfND6Z_A).
+- [SRS](https://disk.360.yandex.ru/d/i2dlwnsLbHCLFw).
+- [User Stories](https://disk.360.yandex.ru/d/3l_rn-rzjZAaeQ).
+- [RTM](https://disk.360.yandex.ru/d/VRZX0IztI4xQhA).
 - [Git-репозиторий](https://github.com/MehrobBakiev/Zavtra).
 
 ### Правая колонка
